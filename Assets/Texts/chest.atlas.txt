@@ -1,0 +1,68 @@
+
+chest.png
+size: 968,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 19 copy
+  rotate: false
+  xy: 69, 753
+  size: 490, 209
+  orig: 490, 209
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 630, 311
+  size: 651, 336
+  orig: 651, 336
+  offset: 0, 0
+  index: -1
+key
+  rotate: false
+  xy: 2, 2
+  size: 651, 307
+  orig: 651, 307
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 468
+  size: 626, 283
+  orig: 626, 283
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 2, 897
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 2, 897
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+start2
+  rotate: false
+  xy: 2, 897
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+
+chest2.png
+size: 668,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+key2
+  rotate: false
+  xy: 2, 2
+  size: 661, 352
+  orig: 661, 352
+  offset: 0, 0
+  index: -1

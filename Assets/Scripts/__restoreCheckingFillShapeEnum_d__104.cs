@@ -1,0 +1,68 @@
+using UnityEngine;
+private sealed class Water2D_Spawner.<_restoreCheckingFillShapeEnum>d__104 : IEnumerator<object>, IEnumerator, IDisposable
+{
+    // Fields
+    private int <>1__state;
+    private object <>2__current;
+    public Water2D.Water2D_Spawner <>4__this;
+    
+    // Properties
+    private object System.Collections.Generic.IEnumerator<System.Object>.Current { get; }
+    private object System.Collections.IEnumerator.Current { get; }
+    
+    // Methods
+    public Water2D_Spawner.<_restoreCheckingFillShapeEnum>d__104(int <>1__state)
+    {
+        this.<>1__state = <>1__state;
+    }
+    private void System.IDisposable.Dispose()
+    {
+    
+    }
+    private bool MoveNext()
+    {
+        bool val_2;
+        if((this.<>1__state) != 1)
+        {
+                val_2 = 0;
+            if((this.<>1__state) != 0)
+        {
+                return val_2;
+        }
+        
+            this.<>1__state = 0;
+            UnityEngine.WaitForSeconds val_1 = 536896849;
+            val_1 = new UnityEngine.WaitForSeconds(seconds:  null);
+            this.<>2__current = val_1;
+            this.<>1__state = 1;
+            return true;
+        }
+        
+        this.<>1__state = 0;
+        if((this.<>4__this) != 0)
+        {
+                this.<>4__this._breakCheckOnFill = true;
+        }
+        else
+        {
+                mem[341] = 1;
+        }
+        
+        val_2 = false;
+        this.<>4__this._checkOnFillComplete = val_2;
+        return val_2;
+    }
+    private object System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+    {
+    
+    }
+    private void System.Collections.IEnumerator.Reset()
+    {
+        22713476 = new System.NotSupportedException();
+    }
+    private object System.Collections.IEnumerator.get_Current()
+    {
+    
+    }
+
+}

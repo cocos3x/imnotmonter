@@ -1,0 +1,125 @@
+
+gachagacha.png
+size: 1180,1180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 941, 134
+  size: 161, 163
+  orig: 163, 165
+  offset: 1, 1
+  index: -1
+ball1
+  rotate: false
+  xy: 1052, 1047
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+ball2
+  rotate: false
+  xy: 1052, 917
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+ball6
+  rotate: false
+  xy: 1052, 917
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+ball3
+  rotate: false
+  xy: 1052, 657
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+ball4
+  rotate: false
+  xy: 899, 4
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+ball5
+  rotate: false
+  xy: 1027, 4
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+ball7
+  rotate: false
+  xy: 527, 2
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+ball9
+  rotate: false
+  xy: 1052, 787
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+ball_fake
+  rotate: false
+  xy: 655, 12
+  size: 114, 118
+  orig: 116, 120
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 527, 719
+  size: 523, 456
+  orig: 523, 1127
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2, 48
+  size: 523, 1127
+  orig: 523, 1127
+  offset: 0, 0
+  index: -1
+down_light1
+  rotate: false
+  xy: 941, 478
+  size: 211, 177
+  orig: 215, 181
+  offset: 2, 2
+  index: -1
+down_light2
+  rotate: false
+  xy: 941, 299
+  size: 211, 177
+  orig: 215, 181
+  offset: 2, 2
+  index: -1
+glass_front
+  rotate: false
+  xy: 527, 260
+  size: 412, 457
+  orig: 414, 459
+  offset: 1, 1
+  index: -1
+top_light1
+  rotate: false
+  xy: 527, 196
+  size: 370, 62
+  orig: 374, 66
+  offset: 2, 2
+  index: -1
+top_light2
+  rotate: false
+  xy: 527, 132
+  size: 370, 62
+  orig: 374, 66
+  offset: 2, 2
+  index: -1

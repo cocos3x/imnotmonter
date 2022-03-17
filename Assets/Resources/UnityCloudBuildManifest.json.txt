@@ -1,0 +1,1 @@
+{"cloudBuildTargetName":"default-android","buildNumber":"52","scmCommitId":"ee3d8bdbbad5d5e24ff618624b0d5c20752720dc","buildStartTime":"2/17/2022 4:24:36 AM","projectId":"18966762151191/cf958c4d-469f-4549-bedd-17097ce6faf8","bundleId":"com.not.monster.poppy","scmBranch":"dao_ne","unityVersion":"2020.3.2f1"}

@@ -1,0 +1,69 @@
+
+arrow.png
+size: 1420,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 636, 386
+  size: 588, 89
+  orig: 588, 89
+  offset: 0, 0
+  index: -1
+ballista
+  rotate: false
+  xy: 2, 2
+  size: 632, 473
+  orig: 632, 473
+  offset: 0, 0
+  index: -1
+banhxe
+  rotate: true
+  xy: 1054, 216
+  size: 168, 167
+  orig: 168, 167
+  offset: 0, 0
+  index: -1
+banhxe2
+  rotate: false
+  xy: 636, 12
+  size: 129, 128
+  orig: 129, 128
+  offset: 0, 0
+  index: -1
+bl1
+  rotate: true
+  xy: 1226, 88
+  size: 387, 189
+  orig: 387, 189
+  offset: 0, 0
+  index: -1
+cung
+  rotate: true
+  xy: 636, 142
+  size: 242, 416
+  orig: 242, 416
+  offset: 0, 0
+  index: -1
+daycungduoi
+  rotate: false
+  xy: 1054, 25
+  size: 121, 189
+  orig: 121, 189
+  offset: 0, 0
+  index: -1
+daycungtren
+  rotate: true
+  xy: 767, 19
+  size: 121, 183
+  orig: 121, 183
+  offset: 0, 0
+  index: -1
+giu_ten
+  rotate: false
+  xy: 1177, 83
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1

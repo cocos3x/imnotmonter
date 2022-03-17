@@ -1,0 +1,174 @@
+
+boss4.png
+size: 956,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm1
+  rotate: false
+  xy: 238, 133
+  size: 68, 153
+  orig: 68, 153
+  offset: 0, 0
+  index: -1
+L_arm2
+  rotate: false
+  xy: 375, 143
+  size: 73, 143
+  orig: 73, 143
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: true
+  xy: 571, 159
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 198, 3
+  size: 86, 126
+  orig: 86, 126
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: false
+  xy: 286, 16
+  size: 54, 115
+  orig: 54, 115
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: false
+  xy: 450, 155
+  size: 62, 131
+  orig: 62, 131
+  offset: 0, 0
+  index: -1
+R_arm1
+  rotate: false
+  xy: 168, 131
+  size: 68, 155
+  orig: 68, 155
+  offset: 0, 0
+  index: -1
+R_arm2
+  rotate: true
+  xy: 47, 5
+  size: 73, 149
+  orig: 73, 149
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: true
+  xy: 621, 159
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 671, 164
+  size: 86, 130
+  orig: 86, 130
+  offset: 0, 0
+  index: -1
+R_leg1
+  rotate: false
+  xy: 514, 151
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 342, 2
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 408, 2
+  size: 139, 294
+  orig: 139, 294
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 704, 50
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 772, 50
+  size: 112, 62
+  orig: 112, 62
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 803, 182
+  size: 111, 68
+  orig: 111, 68
+  offset: 0, 0
+  index: -1
+eye4
+  rotate: true
+  xy: 836, 5
+  size: 109, 66
+  orig: 109, 66
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 80
+  size: 164, 206
+  orig: 164, 206
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 836, 116
+  size: 111, 64
+  orig: 111, 64
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 772, 13
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 704, 6
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 2, 2
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 514, 252
+  size: 440, 34
+  orig: 440, 34
+  offset: 0, 0
+  index: -1
+thorn
+  rotate: true
+  xy: 308, 137
+  size: 149, 65
+  orig: 149, 65
+  offset: 0, 0
+  index: -1

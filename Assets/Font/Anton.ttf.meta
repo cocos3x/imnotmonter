@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cc121fd44c0940b088fd5a2fa8708cda
+timeCreated: 1647551463
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Anton"
+  fontNames:
+  - Anton
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,174 @@
+
+boss3.png
+size: 804,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm1
+  rotate: false
+  xy: 323, 86
+  size: 101, 94
+  orig: 101, 94
+  offset: 0, 0
+  index: -1
+L_arm2
+  rotate: false
+  xy: 402, 525
+  size: 184, 185
+  orig: 184, 185
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: false
+  xy: 479, 202
+  size: 43, 130
+  orig: 43, 130
+  offset: 0, 0
+  index: -1
+R_leg1
+  rotate: false
+  xy: 479, 202
+  size: 43, 130
+  orig: 43, 130
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: false
+  xy: 388, 182
+  size: 89, 150
+  orig: 89, 150
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 388, 182
+  size: 89, 150
+  orig: 89, 150
+  offset: 0, 0
+  index: -1
+R_arm1
+  rotate: false
+  xy: 210, 155
+  size: 111, 92
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+R_arm2
+  rotate: false
+  xy: 205, 2
+  size: 199, 82
+  orig: 199, 82
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 255, 433
+  size: 145, 277
+  orig: 145, 277
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 722, 81
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 479, 143
+  size: 58, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 495
+  size: 251, 215
+  orig: 251, 215
+  offset: 0, 0
+  index: -1
+mjolnir_1
+  rotate: false
+  xy: 402, 334
+  size: 165, 189
+  orig: 256, 256
+  offset: 30, 39
+  index: -1
+mjolnir_2
+  rotate: false
+  xy: 217, 249
+  size: 169, 182
+  orig: 256, 256
+  offset: 19, 38
+  index: -1
+mjolnir_3
+  rotate: false
+  xy: 2, 324
+  size: 213, 169
+  orig: 256, 256
+  offset: 13, 45
+  index: -1
+mjolnir_4
+  rotate: false
+  xy: 588, 551
+  size: 214, 159
+  orig: 256, 256
+  offset: 14, 48
+  index: -1
+mjolnir_5
+  rotate: false
+  xy: 2, 14
+  size: 201, 144
+  orig: 256, 256
+  offset: 26, 51
+  index: -1
+mjolnir_6
+  rotate: false
+  xy: 2, 160
+  size: 206, 162
+  orig: 256, 256
+  offset: 26, 58
+  index: -1
+mjolnir_7
+  rotate: false
+  xy: 588, 383
+  size: 205, 166
+  orig: 256, 256
+  offset: 18, 50
+  index: -1
+mjolnir_8
+  rotate: false
+  xy: 539, 31
+  size: 181, 166
+  orig: 256, 256
+  offset: 25, 48
+  index: -1
+mjolnir_9
+  rotate: false
+  xy: 569, 199
+  size: 169, 182
+  orig: 256, 256
+  offset: 31, 32
+  index: -1
+mouth1
+  rotate: false
+  xy: 205, 99
+  size: 116, 54
+  orig: 116, 55
+  offset: 0, 1
+  index: -1
+mouth2
+  rotate: false
+  xy: 406, 26
+  size: 122, 58
+  orig: 122, 58
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 740, 126
+  size: 42, 255
+  orig: 42, 255
+  offset: 0, 0
+  index: -1

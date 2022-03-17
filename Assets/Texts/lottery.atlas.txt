@@ -1,0 +1,41 @@
+
+lottery.png
+size: 384,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bot
+  rotate: false
+  xy: 194, 111
+  size: 170, 159
+  orig: 172, 161
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 2, 126
+  size: 190, 144
+  orig: 194, 149
+  offset: 2, 1
+  index: -1
+shadown
+  rotate: false
+  xy: 185, 54
+  size: 194, 55
+  orig: 200, 60
+  offset: 3, 2
+  index: -1
+star
+  rotate: false
+  xy: 185, 9
+  size: 45, 43
+  orig: 49, 47
+  offset: 2, 2
+  index: -1
+top
+  rotate: false
+  xy: 2, 2
+  size: 181, 122
+  orig: 183, 124
+  offset: 1, 1
+  index: -1

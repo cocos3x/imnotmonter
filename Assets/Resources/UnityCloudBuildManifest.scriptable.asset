@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 832168659, guid: dc26f97b83ff87c566db911dd879b1cc, type: 3}
+  m_Name: "UnityCloudBuildManifest.scriptable"
+  m_EditorClassIdentifier: 
+  m_manifestJson: "{\"cloudBuildTargetName\":\"default-android\",\"buildNumber\":\"52\",\"scmCommitId\":\"ee3d8bdbbad5d5e24ff618624b0d5c20752720dc\",\"buildStartTime\":\"2\x2f17\x2f2022
+  4:24:36 AM\",\"projectId\":\"18966762151191\x2fcf958c4d-469f-4549-bedd-17097ce6faf8\",\"bundleId\":\"com.not.monster.poppy\",\"scmBranch\":\"dao_ne\",\"unityVersion\":\"2020.3.2f1\"}"

@@ -1,0 +1,97 @@
+
+Enemy_spine_ragdoll.png
+size: 212,1104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/body
+  rotate: false
+  xy: 2, 196
+  size: 151, 324
+  orig: 153, 326
+  offset: 2, 0
+  index: -1
+L_arm1
+  rotate: false
+  xy: 155, 466
+  size: 48, 124
+  orig: 48, 127
+  offset: 0, 2
+  index: -1
+L_arm2
+  rotate: false
+  xy: 138, 93
+  size: 60, 101
+  orig: 60, 101
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 2, 12
+  size: 134, 59
+  orig: 134, 60
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: false
+  xy: 2, 73
+  size: 70, 121
+  orig: 70, 121
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: false
+  xy: 155, 374
+  size: 55, 90
+  orig: 58, 92
+  offset: 2, 1
+  index: -1
+R_arm1
+  rotate: false
+  xy: 155, 592
+  size: 52, 118
+  orig: 54, 129
+  offset: 1, 2
+  index: -1
+R_arm2
+  rotate: false
+  xy: 155, 712
+  size: 55, 135
+  orig: 61, 136
+  offset: 5, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 155, 319
+  size: 55, 53
+  orig: 56, 55
+  offset: 0, 1
+  index: -1
+R_leg1
+  rotate: false
+  xy: 74, 73
+  size: 62, 121
+  orig: 69, 121
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 138, 2
+  size: 62, 89
+  orig: 63, 92
+  offset: 0, 2
+  index: -1
+body
+  rotate: false
+  xy: 2, 522
+  size: 151, 325
+  orig: 153, 326
+  offset: 2, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 849
+  size: 200, 251
+  orig: 204, 252
+  offset: 3, 0
+  index: -1

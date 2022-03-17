@@ -1,0 +1,48 @@
+
+scan.png
+size: 200,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 184, 48
+  orig: 184, 48
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 138
+  size: 129, 131
+  orig: 129, 131
+  offset: 0, 0
+  index: -1
+light2
+  rotate: true
+  xy: 133, 140
+  size: 129, 7
+  orig: 129, 7
+  offset: 0, 0
+  index: -1
+scan_circle
+  rotate: true
+  xy: 169, 82
+  size: 187, 13
+  orig: 187, 13
+  offset: 0, 0
+  index: -1
+scan_circle2
+  rotate: true
+  xy: 184, 82
+  size: 187, 12
+  orig: 187, 12
+  offset: 0, 0
+  index: -1
+scan_item1
+  rotate: true
+  xy: 2, 52
+  size: 84, 165
+  orig: 84, 165
+  offset: 0, 0
+  index: -1

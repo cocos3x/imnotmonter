@@ -1,0 +1,2042 @@
+fileFormatVersion: 2
+guid: 947cd1ef00dd482391819a78a4068a5a
+timeCreated: 1647551022
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Play Gold1
+    21300002: can gat_1
+    21300004: lever
+    21300006: 8
+    21300008: Play Gold4
+    21300010: Larva_stone
+    21300012: Play Rope
+    21300014: progress_current
+    21300016: can gat
+    21300018: progress_next2
+    21300020: Hook
+    21300022: progress_bar
+    21300024: progress_passed
+    21300026: icon_mode2
+    21300028: rope
+    21300030: Play Gold3
+    21300032: 4
+    21300034: Play Gold5
+    21300036: Play Gold2
+    21300038: StickBarrie2
+    21300040: progress_passed2
+    21300042: Play Moc5
+    21300044: BigStone
+    21300046: icon_mode3
+    21300048: BaseSpike
+    21300050: mode8_bar
+    21300052: bed
+    21300054: icon_mode1
+    21300056: Play Moc2
+    21300058: progress_next
+    21300060: StickBarrie1
+    21300062: lever_2
+    21300064: bg_CastleWall
+    21300066: Play Moc1
+    21300068: progress_current2
+    21300070: Spike
+    21300072: progress_icon_check
+    21300074: Dynamite
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Play Gold1
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 97
+        width: 50
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -16}
+        - {x: -25, y: 24}
+        - {x: -21, y: -24}
+      - - {x: 25, y: 24}
+        - {x: -21, y: -24}
+        - {x: -25, y: 24}
+      - - {x: 16, y: -24}
+        - {x: -21, y: -24}
+        - {x: 25, y: 24}
+      - - {x: 25, y: -16}
+        - {x: 16, y: -24}
+        - {x: 25, y: 24}
+      physicsShape:      
+      - - {x: -25, y: 24}
+        - {x: -25, y: -14}
+        - {x: -16, y: -24}
+        - {x: 12, y: -24}
+        - {x: 16, y: -23}
+        - {x: 25, y: -14}
+        - {x: 25, y: 24}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: can gat_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 202
+        width: 168
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: -27}
+        - {x: -84, y: 13}
+        - {x: 84, y: -27}
+      - - {x: -53, y: 27}
+        - {x: 84, y: -27}
+        - {x: -84, y: 13}
+      - - {x: 32, y: 27}
+        - {x: 84, y: -27}
+        - {x: -53, y: 27}
+      - - {x: 84, y: 16}
+        - {x: 84, y: -27}
+        - {x: 32, y: 27}
+      physicsShape:      
+      - - {x: 38, y: 27}
+        - {x: -28, y: 27}
+        - {x: -34, y: 21}
+        - {x: -36, y: 17}
+        - {x: -77, y: 15}
+        - {x: -84, y: 4}
+        - {x: -84, y: -27}
+        - {x: 84, y: -27}
+        - {x: 84, y: 8}
+        - {x: 75, y: 21}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lever
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 72
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 0, z: 35, w: 0}
+      outline:
+      - - {x: -36, y: 20}
+        - {x: 36, y: 20}
+        - {x: -36, y: -20}
+      - - {x: -36, y: -20}
+        - {x: 36, y: 20}
+        - {x: 36, y: -20}
+      physicsShape:      
+      - - {x: -35, y: 20}
+        - {x: -36, y: 19}
+        - {x: -36, y: -20}
+        - {x: 36, y: -20}
+        - {x: 36, y: 19}
+        - {x: 35, y: 20}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 88
+        width: 111
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 76.5}
+        - {x: 55.5, y: 76.5}
+        - {x: -55.5, y: -76.5}
+      - - {x: -55.5, y: -76.5}
+        - {x: 55.5, y: 76.5}
+        - {x: 55.5, y: -76.5}
+      physicsShape:      
+      - - {x: 53.5, y: -33.5}
+        - {x: 55.5, y: -31.5}
+        - {x: 55.5, y: -14.5}
+        - {x: 16.5, y: 56.5}
+        - {x: 8.5, y: 75.5}
+        - {x: 5.5, y: 76.5}
+        - {x: -6.5, y: 76.5}
+        - {x: -27.5, y: 40.5}
+        - {x: -55.5, y: -17.5}
+        - {x: -55.5, y: -33.5}
+        - {x: -54.5, y: -36.5}
+        - {x: -23.5, y: -27.5}
+        - {x: -21.5, y: -73.49999}
+        - {x: -17.5, y: -76.5}
+        - {x: 18.5, y: -76.5}
+        - {x: 22.5, y: -70.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 31.5, y: -30.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Gold4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 260
+        width: 63
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -19.5}
+        - {x: -31.5, y: 12.5}
+        - {x: -26.5, y: -24.5}
+      - - {x: -19.5, y: 24.5}
+        - {x: -26.5, y: -24.5}
+        - {x: -31.5, y: 12.5}
+      - - {x: 31.5, y: -24.5}
+        - {x: -26.5, y: -24.5}
+        - {x: -19.5, y: 24.5}
+      - - {x: 23.5, y: 24.5}
+        - {x: 31.5, y: -24.5}
+        - {x: -19.5, y: 24.5}
+      - - {x: 31.5, y: 18.5}
+        - {x: 31.5, y: -24.5}
+        - {x: 23.5, y: 24.5}
+      physicsShape:      
+      - - {x: -31.5, y: -22.5}
+        - {x: -30.5, y: -24.5}
+        - {x: 31.5, y: -24.5}
+        - {x: 31.5, y: 21.5}
+        - {x: 30.5, y: 24.5}
+        - {x: -25.5, y: 24.5}
+        - {x: -31.5, y: 19.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larva_stone
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 282
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: -135}
+        - {x: 79, y: -74}
+        - {x: 86, y: -133}
+      - - {x: -141, y: 25}
+        - {x: -141, y: 45}
+        - {x: -116, y: -16}
+      - - {x: -99, y: 63}
+        - {x: -116, y: -16}
+        - {x: -141, y: 45}
+      - - {x: -110, y: -96}
+        - {x: -116, y: -16}
+        - {x: -99, y: 63}
+      - - {x: -48, y: -93}
+        - {x: -110, y: -96}
+        - {x: -99, y: 63}
+      - - {x: -89, y: 128}
+        - {x: -48, y: -93}
+        - {x: -99, y: 63}
+      - - {x: -73, y: 133}
+        - {x: -48, y: -93}
+        - {x: -89, y: 128}
+      - - {x: -14, y: 106}
+        - {x: -48, y: -93}
+        - {x: -73, y: 133}
+      - - {x: -36, y: -135}
+        - {x: -48, y: -93}
+        - {x: -14, y: 106}
+      - - {x: 74, y: -135}
+        - {x: -36, y: -135}
+        - {x: -14, y: 106}
+      - - {x: 8, y: 135}
+        - {x: 74, y: -135}
+        - {x: -14, y: 106}
+      - - {x: 44, y: 135}
+        - {x: 74, y: -135}
+        - {x: 8, y: 135}
+      - - {x: 62, y: 112}
+        - {x: 74, y: -135}
+        - {x: 44, y: 135}
+      - - {x: 79, y: -74}
+        - {x: 74, y: -135}
+        - {x: 62, y: 112}
+      - - {x: 141, y: 59}
+        - {x: 79, y: -74}
+        - {x: 62, y: 112}
+      - - {x: 141, y: -53}
+        - {x: 79, y: -74}
+        - {x: 141, y: 59}
+      physicsShape:      
+      - - {x: 14, y: -110}
+        - {x: 28, y: -108}
+        - {x: 40, y: -118}
+        - {x: 65, y: -133}
+        - {x: 71, y: -134}
+        - {x: 76, y: -127}
+        - {x: 75, y: -72}
+        - {x: 83, y: -65}
+        - {x: 96, y: -54}
+        - {x: 130, y: -47}
+        - {x: 135, y: -41}
+        - {x: 135, y: -35}
+        - {x: 125, y: -26}
+        - {x: 101, y: -7}
+        - {x: 105, y: 2}
+        - {x: 137, y: 26}
+        - {x: 141, y: 31}
+        - {x: 141, y: 38}
+        - {x: 139, y: 41}
+        - {x: 136, y: 42}
+        - {x: 95, y: 53}
+        - {x: 85, y: 60}
+        - {x: 76, y: 72}
+        - {x: 61, y: 87}
+        - {x: 44, y: 97}
+        - {x: 43, y: 117}
+        - {x: 41, y: 129}
+        - {x: 40, y: 132}
+        - {x: 37, y: 135}
+        - {x: 29, y: 135}
+        - {x: 28, y: 134}
+        - {x: 3, y: 112}
+        - {x: -7, y: 112}
+        - {x: -11, y: 106}
+        - {x: -25, y: 104}
+        - {x: -40, y: 112}
+        - {x: -74, y: 129}
+        - {x: -79.99999, y: 130}
+        - {x: -85, y: 123}
+        - {x: -84, y: 117}
+        - {x: -83, y: 91.99999}
+        - {x: -82, y: 71}
+        - {x: -89, y: 60}
+        - {x: -98.99999, y: 61}
+        - {x: -111, y: 52}
+        - {x: -141, y: 38}
+        - {x: -141, y: 27}
+        - {x: -109, y: 4}
+        - {x: -109, y: -1}
+        - {x: -102, y: -6}
+        - {x: -102, y: -12}
+        - {x: -96, y: -34}
+        - {x: -91.99999, y: -38}
+        - {x: -107, y: -79}
+        - {x: -107, y: -84}
+        - {x: -103, y: -88}
+        - {x: -96, y: -88}
+        - {x: -91, y: -87}
+        - {x: -83, y: -85.99999}
+        - {x: -60, y: -79}
+        - {x: -45, y: -87}
+        - {x: -40, y: -109}
+        - {x: -36, y: -132}
+        - {x: -32, y: -135}
+        - {x: -23, y: -135}
+        - {x: -12, y: -124}
+        - {x: 3, y: -105}
+        - {x: 6, y: -107}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Rope
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 179
+        width: 17
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 15.5}
+        - {x: 8.5, y: 15.5}
+        - {x: -8.5, y: -15.5}
+      - - {x: -8.5, y: -15.5}
+        - {x: 8.5, y: 15.5}
+        - {x: 8.5, y: -15.5}
+      physicsShape:      
+      - - {x: -7.5, y: -15.5}
+        - {x: 6.5, y: -15.5}
+        - {x: 6.5, y: 15.5}
+        - {x: -7.5, y: 15.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_current
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 706
+        width: 54
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -12}
+        - {x: -27, y: 12}
+        - {x: -25, y: -17}
+      - - {x: -25, y: 17}
+        - {x: -25, y: -17}
+        - {x: -27, y: 12}
+      - - {x: -18, y: -26}
+        - {x: -25, y: -17}
+        - {x: -25, y: 17}
+      - - {x: -17, y: 27}
+        - {x: -18, y: -26}
+        - {x: -25, y: 17}
+      - - {x: -14, y: -27}
+        - {x: -18, y: -26}
+        - {x: -17, y: 27}
+      - - {x: 16, y: 27}
+        - {x: -14, y: -27}
+        - {x: -17, y: 27}
+      - - {x: 18, y: -27}
+        - {x: -14, y: -27}
+        - {x: 16, y: 27}
+      - - {x: 27, y: 24}
+        - {x: 18, y: -27}
+        - {x: 16, y: 27}
+      - - {x: 27, y: -17}
+        - {x: 18, y: -27}
+        - {x: 27, y: 24}
+      physicsShape:      
+      - - {x: 18, y: 26}
+        - {x: 14, y: 27}
+        - {x: -15, y: 27}
+        - {x: -27, y: 19}
+        - {x: -27, y: -13}
+        - {x: -18, y: -26}
+        - {x: -13, y: -27}
+        - {x: 15, y: -27}
+        - {x: 26, y: -18}
+        - {x: 27, y: -14}
+        - {x: 27, y: 14}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: can gat
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 260
+        width: 44
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -7}
+        - {x: -22, y: 56}
+        - {x: -15, y: -56}
+      - - {x: 22, y: 56}
+        - {x: -15, y: -56}
+        - {x: -22, y: 56}
+      - - {x: 22, y: -56}
+        - {x: -15, y: -56}
+        - {x: 22, y: 56}
+      physicsShape:      
+      - - {x: -22, y: 56}
+        - {x: -22, y: -55}
+        - {x: -17, y: -56}
+        - {x: 14, y: -56}
+        - {x: 22, y: -14}
+        - {x: 22, y: 53}
+        - {x: 19, y: 56}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_next2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 260
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -32.5}
+        - {x: -32.5, y: 32.5}
+        - {x: 32.5, y: -32.5}
+      - - {x: 32.5, y: 32.5}
+        - {x: 32.5, y: -32.5}
+        - {x: -32.5, y: 32.5}
+      physicsShape:      
+      - - {x: -30.5, y: 32.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -32.5, y: -30.5}
+        - {x: -30.5, y: -32.5}
+        - {x: 30.5, y: -32.5}
+        - {x: 32.5, y: -30.5}
+        - {x: 32.5, y: 30.5}
+        - {x: 30.5, y: 32.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hook
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 553
+        width: 64
+        height: 63.93789
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5004857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -21.96894}
+        - {x: -32, y: 28.03106}
+        - {x: -21, y: -31.96894}
+      - - {x: -19, y: 32.03106}
+        - {x: -21, y: -31.96894}
+        - {x: -32, y: 28.03106}
+      - - {x: 23, y: -31.96894}
+        - {x: -21, y: -31.96894}
+        - {x: -19, y: 32.03106}
+      - - {x: 27, y: 32.03106}
+        - {x: 23, y: -31.96894}
+        - {x: -19, y: 32.03106}
+      - - {x: 32, y: -21.96894}
+        - {x: 23, y: -31.96894}
+        - {x: 27, y: 32.03106}
+      - - {x: 32, y: 21.03106}
+        - {x: 32, y: -21.96894}
+        - {x: 27, y: 32.03106}
+      physicsShape:      
+      - - {x: 26, y: 15.03105}
+        - {x: 11, y: 27.03105}
+        - {x: -11, y: 27.03105}
+        - {x: -27, y: 15.03105}
+        - {x: -28, y: 13.03106}
+        - {x: -28, y: -8.968945}
+        - {x: -18, y: -23.96894}
+        - {x: -14, y: -24.96894}
+        - {x: 9, y: -24.96894}
+        - {x: 17, y: -19.96894}
+        - {x: 26, y: -8.968945}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_bar
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 9
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 4, w: 0}
+      outline:
+      - - {x: -4.5, y: 11}
+        - {x: 4.5, y: 11}
+        - {x: -4.5, y: -11}
+      - - {x: -4.5, y: -11}
+        - {x: 4.5, y: 11}
+        - {x: 4.5, y: -11}
+      physicsShape:      
+      - - {x: -4.5, y: 11}
+        - {x: -4.5, y: -11}
+        - {x: 4.5, y: -11}
+        - {x: 4.5, y: 11}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_passed
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 39
+        width: 54
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -12}
+        - {x: -27, y: 12}
+        - {x: -25, y: -17}
+      - - {x: -25, y: 17}
+        - {x: -25, y: -17}
+        - {x: -27, y: 12}
+      - - {x: -18, y: -26}
+        - {x: -25, y: -17}
+        - {x: -25, y: 17}
+      - - {x: -17, y: 27}
+        - {x: -18, y: -26}
+        - {x: -25, y: 17}
+      - - {x: -14, y: -27}
+        - {x: -18, y: -26}
+        - {x: -17, y: 27}
+      - - {x: 16, y: 27}
+        - {x: -14, y: -27}
+        - {x: -17, y: 27}
+      - - {x: 18, y: -27}
+        - {x: -14, y: -27}
+        - {x: 16, y: 27}
+      - - {x: 27, y: 24}
+        - {x: 18, y: -27}
+        - {x: 16, y: 27}
+      - - {x: 27, y: -17}
+        - {x: 18, y: -27}
+        - {x: 27, y: 24}
+      physicsShape:      
+      - - {x: 18, y: 26}
+        - {x: 14, y: 27}
+        - {x: -15, y: 27}
+        - {x: -27, y: 19}
+        - {x: -27, y: -13}
+        - {x: -18, y: -26}
+        - {x: -13, y: -27}
+        - {x: 15, y: -27}
+        - {x: 26, y: -18}
+        - {x: 27, y: -14}
+        - {x: 27, y: 14}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_mode2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 141
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -10}
+        - {x: -20, y: 17}
+        - {x: -19, y: -17}
+      - - {x: 20, y: 17}
+        - {x: -19, y: -17}
+        - {x: -20, y: 17}
+      - - {x: 18, y: -17}
+        - {x: -19, y: -17}
+        - {x: 20, y: 17}
+      - - {x: 20, y: -11}
+        - {x: 18, y: -17}
+        - {x: 20, y: 17}
+      physicsShape:      
+      - - {x: 20, y: 17}
+        - {x: -20, y: 17}
+        - {x: -20, y: -16}
+        - {x: -17, y: -17}
+        - {x: 16, y: -17}
+        - {x: 19, y: -8}
+        - {x: 20, y: -6}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 88
+        width: 89
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 20}
+        - {x: -37.5, y: 54}
+        - {x: 22.5, y: 20}
+      - - {x: -35.5, y: 55}
+        - {x: 22.5, y: 20}
+        - {x: -37.5, y: 54}
+      - - {x: 22.5, y: 55}
+        - {x: 22.5, y: 20}
+        - {x: -35.5, y: 55}
+      - - {x: 31.5, y: 25}
+        - {x: 22.5, y: 20}
+        - {x: 22.5, y: 55}
+      - - {x: 31.5, y: 44}
+        - {x: 31.5, y: 25}
+        - {x: 22.5, y: 55}
+      - - {x: 14.5, y: -9}
+        - {x: 14.5, y: 6}
+        - {x: 15.5, y: -12}
+      - - {x: 28.5, y: 15}
+        - {x: 15.5, y: -12}
+        - {x: 14.5, y: 6}
+      - - {x: 31.5, y: -12}
+        - {x: 15.5, y: -12}
+        - {x: 28.5, y: 15}
+      - - {x: 44.5, y: 15}
+        - {x: 31.5, y: -12}
+        - {x: 28.5, y: 15}
+      - - {x: 44.5, y: -7}
+        - {x: 31.5, y: -12}
+        - {x: 44.5, y: 15}
+      - - {x: -44.5, y: -11}
+        - {x: -44.5, y: 10}
+        - {x: -42.5, y: -16}
+      - - {x: -27.5, y: 10}
+        - {x: -42.5, y: -16}
+        - {x: -44.5, y: 10}
+      - - {x: -36.5, y: -17}
+        - {x: -42.5, y: -16}
+        - {x: -27.5, y: 10}
+      - - {x: -15.5, y: -17}
+        - {x: -36.5, y: -17}
+        - {x: -27.5, y: 10}
+      - - {x: -19.5, y: 9}
+        - {x: -15.5, y: -17}
+        - {x: -27.5, y: 10}
+      - - {x: -14.5, y: -3}
+        - {x: -15.5, y: -17}
+        - {x: -19.5, y: 9}
+      - - {x: -14.5, y: -16}
+        - {x: -15.5, y: -17}
+        - {x: -14.5, y: -3}
+      - - {x: -29.5, y: -55}
+        - {x: -29.5, y: -36}
+        - {x: 33.5, y: -55}
+      - - {x: -27.5, y: -31}
+        - {x: 33.5, y: -55}
+        - {x: -29.5, y: -36}
+      - - {x: 26.5, y: -31}
+        - {x: 33.5, y: -55}
+        - {x: -27.5, y: -31}
+      - - {x: 33.5, y: -34}
+        - {x: 33.5, y: -55}
+        - {x: 26.5, y: -31}
+      physicsShape:      
+      - - {x: 24.5, y: -31}
+        - {x: -25.5, y: -31}
+        - {x: -29.5, y: -39}
+        - {x: -29.5, y: -53}
+        - {x: -28.5, y: -55}
+        - {x: 31.5, y: -55}
+        - {x: 32.5, y: -53}
+        - {x: 33.5, y: -42}
+        - {x: 33.5, y: -38}
+        - {x: -35.5, y: 9.999999}
+        - {x: -43.5, y: 9.999999}
+        - {x: -44.5, y: 7}
+        - {x: -44.5, y: -7}
+        - {x: -29.5, y: -17}
+        - {x: -17.5, y: -17}
+        - {x: -14.5, y: -11}
+        - {x: -14.5, y: 0}
+        - {x: -20.5, y: 8}
+        - {x: 23.5, y: 15}
+        - {x: 14.5, y: 3}
+        - {x: 14.5, y: -9}
+        - {x: 18.5, y: -12}
+        - {x: 26.5, y: -12}
+        - {x: 44.5, y: -1}
+        - {x: 44.5, y: 12}
+        - {x: 40.5, y: 15}
+        - {x: -28.5, y: 55}
+        - {x: -37.5, y: 42}
+        - {x: -37.5, y: 24}
+        - {x: -36.5, y: 21}
+        - {x: 6.5, y: 21}
+        - {x: 31.5, y: 23}
+        - {x: 31.5, y: 46}
+        - {x: 21.5, y: 55}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Gold3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 313
+        width: 49
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -13.5}
+        - {x: -24.5, y: 23.5}
+        - {x: -22.5, y: -23.5}
+      - - {x: 24.5, y: 23.5}
+        - {x: -22.5, y: -23.5}
+        - {x: -24.5, y: 23.5}
+      - - {x: 14.5, y: -23.5}
+        - {x: -22.5, y: -23.5}
+        - {x: 24.5, y: 23.5}
+      - - {x: 20.5, y: -17.5}
+        - {x: 14.5, y: -23.5}
+        - {x: 24.5, y: 23.5}
+      - - {x: 24.5, y: -8.5}
+        - {x: 20.5, y: -17.5}
+        - {x: 24.5, y: 23.5}
+      physicsShape:      
+      - - {x: -24.5, y: 23.5}
+        - {x: -24.5, y: -4.5}
+        - {x: -23.5, y: -11.5}
+        - {x: -13.5, y: -23.5}
+        - {x: 14.5, y: -23.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 23.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 224
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112, y: -42}
+        - {x: -112, y: 39}
+        - {x: 112, y: -42}
+      - - {x: -106, y: 42}
+        - {x: 112, y: -42}
+        - {x: -112, y: 39}
+      - - {x: 100, y: 42}
+        - {x: 112, y: -42}
+        - {x: -106, y: 42}
+      - - {x: 112, y: -15}
+        - {x: 112, y: -42}
+        - {x: 100, y: 42}
+      physicsShape:      
+      - - {x: 105, y: -23}
+        - {x: 97, y: 28}
+        - {x: 93, y: 39}
+        - {x: 87, y: 37}
+        - {x: 79, y: -12}
+        - {x: 77, y: -24}
+        - {x: 65, y: -17}
+        - {x: 57, y: 12}
+        - {x: 52, y: 14}
+        - {x: 49, y: 11}
+        - {x: 39, y: -24}
+        - {x: 27, y: -17}
+        - {x: 21, y: -9.999999}
+        - {x: 13, y: -7}
+        - {x: 12, y: 2}
+        - {x: 9, y: 5}
+        - {x: -9, y: 4}
+        - {x: -19, y: 1}
+        - {x: -30, y: -4}
+        - {x: -42, y: -15}
+        - {x: -50, y: 11}
+        - {x: -53, y: 14}
+        - {x: -56, y: 13}
+        - {x: -65, y: -17}
+        - {x: -66.99999, y: -23}
+        - {x: -79.99999, y: -1}
+        - {x: -85, y: 29}
+        - {x: -88, y: 40}
+        - {x: -91, y: 42}
+        - {x: -94, y: 41}
+        - {x: -102, y: -3}
+        - {x: -110, y: -21}
+        - {x: -112, y: -23}
+        - {x: -112, y: -38}
+        - {x: -108, y: -42}
+        - {x: 110, y: -42}
+        - {x: 112, y: -40}
+        - {x: 112, y: -23}
+        - {x: 110, y: -21}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Gold5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 621
+        width: 51
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -19}
+        - {x: -25.5, y: 18}
+        - {x: -22.5, y: -26}
+      - - {x: -19.5, y: 26}
+        - {x: -22.5, y: -26}
+        - {x: -25.5, y: 18}
+      - - {x: 22.5, y: -26}
+        - {x: -22.5, y: -26}
+        - {x: -19.5, y: 26}
+      - - {x: 17.5, y: 26}
+        - {x: 22.5, y: -26}
+        - {x: -19.5, y: 26}
+      - - {x: 25.5, y: 15}
+        - {x: 22.5, y: -26}
+        - {x: 17.5, y: 26}
+      - - {x: 25.5, y: -17}
+        - {x: 22.5, y: -26}
+        - {x: 25.5, y: 15}
+      physicsShape:      
+      - - {x: -20.5, y: 26}
+        - {x: -25.5, y: 18}
+        - {x: -25.5, y: -20}
+        - {x: -20.5, y: -26}
+        - {x: 21.5, y: -26}
+        - {x: 25.5, y: -21}
+        - {x: 25.5, y: 11}
+        - {x: 19.5, y: 26}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Gold2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 364
+        width: 46
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -23}
+        - {x: -23, y: 23}
+        - {x: 23, y: -23}
+      - - {x: 20, y: 23}
+        - {x: 23, y: -23}
+        - {x: -23, y: 23}
+      - - {x: 23, y: 22}
+        - {x: 23, y: -23}
+        - {x: 20, y: 23}
+      physicsShape:      
+      - - {x: -23, y: 23}
+        - {x: -23, y: -16}
+        - {x: -21, y: -23}
+        - {x: 19, y: -23}
+        - {x: 23, y: -14}
+        - {x: 23, y: 20}
+        - {x: 20, y: 23}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickBarrie2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 682
+        width: 94
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 99, z: 0, w: 41}
+      outline:
+      - - {x: -47, y: 127.5}
+        - {x: 47, y: 127.5}
+        - {x: -47, y: -127.5}
+      - - {x: -47, y: -127.5}
+        - {x: 47, y: 127.5}
+        - {x: 47, y: -127.5}
+      physicsShape:      
+      - - {x: 12, y: 120.5}
+        - {x: 8, y: 126.5}
+        - {x: 7, y: 127.5}
+        - {x: -9, y: 127.5}
+        - {x: -14, y: 120.5}
+        - {x: -47, y: -36.5}
+        - {x: -47, y: -115.5}
+        - {x: -20, y: -126.5}
+        - {x: -15, y: -127.5}
+        - {x: 16, y: -127.5}
+        - {x: 47, y: -107.5}
+        - {x: 47, y: -95.5}
+        - {x: 16, y: -73.5}
+        - {x: -3, y: -97.5}
+        - {x: 2, y: -96.5}
+        - {x: 4, y: -98.5}
+        - {x: 3, y: -103.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_passed2
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 88
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -32.5}
+        - {x: -32.5, y: 32.5}
+        - {x: 32.5, y: -32.5}
+      - - {x: 32.5, y: 32.5}
+        - {x: 32.5, y: -32.5}
+        - {x: -32.5, y: 32.5}
+      physicsShape:      
+      - - {x: -30.5, y: 32.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -32.5, y: -30.5}
+        - {x: -30.5, y: -32.5}
+        - {x: 30.5, y: -32.5}
+        - {x: 32.5, y: -30.5}
+        - {x: 32.5, y: 30.5}
+        - {x: 30.5, y: 32.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Moc5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 553
+        width: 58
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -40}
+        - {x: -29, y: 40}
+        - {x: 29, y: -40}
+      - - {x: 29, y: 40}
+        - {x: 29, y: -40}
+        - {x: -29, y: 40}
+      physicsShape:      
+      - - {x: -23, y: 40}
+        - {x: -29, y: 33}
+        - {x: -29, y: -37}
+        - {x: -24, y: -40}
+        - {x: 26, y: -40}
+        - {x: 29, y: -35}
+        - {x: 29, y: 40}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigStone
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 74
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -36}
+        - {x: -37, y: 26}
+        - {x: -34, y: -38}
+      - - {x: -31, y: 38}
+        - {x: -34, y: -38}
+        - {x: -37, y: 26}
+      - - {x: 20, y: -38}
+        - {x: -34, y: -38}
+        - {x: -31, y: 38}
+      - - {x: 15, y: 38}
+        - {x: 20, y: -38}
+        - {x: -31, y: 38}
+      - - {x: 17, y: 37}
+        - {x: 20, y: -38}
+        - {x: 15, y: 38}
+      - - {x: 23, y: 33}
+        - {x: 20, y: -38}
+        - {x: 17, y: 37}
+      - - {x: 37, y: -32}
+        - {x: 20, y: -38}
+        - {x: 23, y: 33}
+      - - {x: 37, y: 21}
+        - {x: 37, y: -32}
+        - {x: 23, y: 33}
+      physicsShape:      
+      - - {x: 21, y: 37}
+        - {x: 17, y: 38}
+        - {x: -17, y: 38}
+        - {x: -32, y: 25}
+        - {x: -37, y: 15}
+        - {x: -37, y: -15}
+        - {x: -35, y: -23}
+        - {x: -16, y: -38}
+        - {x: 18, y: -38}
+        - {x: 34, y: -26}
+        - {x: 37, y: -20}
+        - {x: 37, y: 22}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_mode3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 44
+        width: 49
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -15.5}
+        - {x: -24.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+      - - {x: 24.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: -24.5, y: 19.5}
+      - - {x: 19.5, y: -19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 24.5, y: 19.5}
+      - - {x: 24.5, y: -18.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 24.5, y: 19.5}
+      physicsShape:      
+      - - {x: -24.5, y: 19.5}
+        - {x: -24.5, y: -2.5}
+        - {x: -23.5, y: -12.5}
+        - {x: -17.5, y: -19.5}
+        - {x: 17.5, y: -19.5}
+        - {x: 24.5, y: -16.5}
+        - {x: 24.5, y: 19.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSpike
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 97
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 17.5}
+        - {x: 48.5, y: 17.5}
+        - {x: -48.5, y: -17.5}
+      - - {x: -48.5, y: -17.5}
+        - {x: 48.5, y: 17.5}
+        - {x: 48.5, y: -17.5}
+      physicsShape:      
+      - - {x: -39.5, y: 17.5}
+        - {x: -47.5, y: -0.5}
+        - {x: -48.5, y: -5.5}
+        - {x: -48.5, y: -17.5}
+        - {x: 48.5, y: -17.5}
+        - {x: 48.5, y: -0.5}
+        - {x: 37.5, y: 17.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mode8_bar
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 402
+        width: 148
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: -47.5}
+        - {x: -74, y: 47.5}
+        - {x: 74, y: -47.5}
+      - - {x: 74, y: 47.5}
+        - {x: 74, y: -47.5}
+        - {x: -74, y: 47.5}
+      physicsShape:      
+      - - {x: -74, y: 47.5}
+        - {x: -74, y: -47.5}
+        - {x: 71, y: -47.5}
+        - {x: 74, y: -44.5}
+        - {x: 74, y: 45.5}
+        - {x: 72.99999, y: 47.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 408
+        width: 145
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -129}
+        - {x: -72.5, y: 129}
+        - {x: -69.5, y: -132}
+      - - {x: -69.5, y: 132}
+        - {x: -69.5, y: -132}
+        - {x: -72.5, y: 129}
+      - - {x: 72.5, y: -132}
+        - {x: -69.5, y: -132}
+        - {x: -69.5, y: 132}
+      - - {x: 72.5, y: 132}
+        - {x: 72.5, y: -132}
+        - {x: -69.5, y: 132}
+      physicsShape:      
+      - - {x: -72.5, y: 132}
+        - {x: -72.5, y: -132}
+        - {x: 68.5, y: -132}
+        - {x: 72.5, y: -128}
+        - {x: 72.5, y: 128}
+        - {x: 68.5, y: 132}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_mode1
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 44
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -11.5}
+        - {x: -18, y: 21.5}
+        - {x: -13, y: -21.5}
+      - - {x: 16, y: 21.5}
+        - {x: -13, y: -21.5}
+        - {x: -18, y: 21.5}
+      - - {x: 16, y: -21.5}
+        - {x: -13, y: -21.5}
+        - {x: 16, y: 21.5}
+      - - {x: 18, y: -14.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 21.5}
+      - - {x: 18, y: 20.5}
+        - {x: 18, y: -14.5}
+        - {x: 16, y: 21.5}
+      physicsShape:      
+      - - {x: 17, y: 21.5}
+        - {x: -15, y: 21.5}
+        - {x: -18, y: 20.5}
+        - {x: -18, y: -6.5}
+        - {x: -8, y: -21.5}
+        - {x: 12, y: -21.5}
+        - {x: 17, y: -15.5}
+        - {x: 18, y: -7.5}
+        - {x: 18, y: 19.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Moc2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 387
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -10.5}
+        - {x: -19.5, y: 10.5}
+        - {x: -14.5, y: -19.5}
+      - - {x: -17.5, y: 13.5}
+        - {x: -14.5, y: -19.5}
+        - {x: -19.5, y: 10.5}
+      - - {x: -12.5, y: 19.5}
+        - {x: -14.5, y: -19.5}
+        - {x: -17.5, y: 13.5}
+      - - {x: 17.5, y: -19.5}
+        - {x: -14.5, y: -19.5}
+        - {x: -12.5, y: 19.5}
+      - - {x: 15.5, y: 19.5}
+        - {x: 17.5, y: -19.5}
+        - {x: -12.5, y: 19.5}
+      - - {x: 19.5, y: 17.5}
+        - {x: 17.5, y: -19.5}
+        - {x: 15.5, y: 19.5}
+      - - {x: 19.5, y: -15.5}
+        - {x: 17.5, y: -19.5}
+        - {x: 19.5, y: 17.5}
+      physicsShape:      
+      - - {x: 16.5, y: 19.5}
+        - {x: -12.5, y: 19.5}
+        - {x: -19.5, y: 17.5}
+        - {x: -19.5, y: -16.5}
+        - {x: -14.5, y: -19.5}
+        - {x: 16.5, y: -19.5}
+        - {x: 19.5, y: -12.5}
+        - {x: 19.5, y: 16.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_next
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 329
+        width: 54
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -12}
+        - {x: -27, y: 12}
+        - {x: -25, y: -17}
+      - - {x: -25, y: 17}
+        - {x: -25, y: -17}
+        - {x: -27, y: 12}
+      - - {x: -18, y: -26}
+        - {x: -25, y: -17}
+        - {x: -25, y: 17}
+      - - {x: -17, y: 27}
+        - {x: -18, y: -26}
+        - {x: -25, y: 17}
+      - - {x: -14, y: -27}
+        - {x: -18, y: -26}
+        - {x: -17, y: 27}
+      - - {x: 16, y: 27}
+        - {x: -14, y: -27}
+        - {x: -17, y: 27}
+      - - {x: 18, y: -27}
+        - {x: -14, y: -27}
+        - {x: 16, y: 27}
+      - - {x: 27, y: 24}
+        - {x: 18, y: -27}
+        - {x: 16, y: 27}
+      - - {x: 27, y: -17}
+        - {x: 18, y: -27}
+        - {x: 27, y: 24}
+      physicsShape:      
+      - - {x: 18, y: 26}
+        - {x: 14, y: 27}
+        - {x: -15, y: 27}
+        - {x: -27, y: 19}
+        - {x: -27, y: -13}
+        - {x: -18, y: -26}
+        - {x: -13, y: -27}
+        - {x: 15, y: -27}
+        - {x: 26, y: -18}
+        - {x: 27, y: -14}
+        - {x: 27, y: 14}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickBarrie1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 676
+        width: 82
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 83, z: 0, w: 39}
+      outline:
+      - - {x: -41, y: 136}
+        - {x: 41, y: 136}
+        - {x: -41, y: -136}
+      - - {x: -41, y: -136}
+        - {x: 41, y: 136}
+        - {x: 41, y: -136}
+      physicsShape:      
+      - - {x: 26, y: -57}
+        - {x: 15, y: -62}
+        - {x: 14, y: 136}
+        - {x: -12, y: 136}
+        - {x: -15, y: -57}
+        - {x: -27, y: -56}
+        - {x: -41, y: -60}
+        - {x: -41, y: -72.99999}
+        - {x: -28, y: -102}
+        - {x: -4, y: -136}
+        - {x: 9, y: -136}
+        - {x: 30, y: -108}
+        - {x: 41, y: -75}
+        - {x: 41, y: -61}
+        - {x: -1, y: -89}
+        - {x: 3, y: -88}
+        - {x: 6, y: -93}
+        - {x: 5, y: -95}
+        - {x: 0, y: -94}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lever_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 80
+        width: 57
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -24.5}
+        - {x: -28.5, y: 25.5}
+        - {x: -23.5, y: -28.5}
+      - - {x: -19.5, y: 28.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -28.5, y: 25.5}
+      - - {x: 24.5, y: -28.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -19.5, y: 28.5}
+      - - {x: 23.5, y: 28.5}
+        - {x: 24.5, y: -28.5}
+        - {x: -19.5, y: 28.5}
+      - - {x: 28.5, y: 24.5}
+        - {x: 24.5, y: -28.5}
+        - {x: 23.5, y: 28.5}
+      - - {x: 28.5, y: -22.5}
+        - {x: 24.5, y: -28.5}
+        - {x: 28.5, y: 24.5}
+      physicsShape:      
+      - - {x: 12.5, y: 28.5}
+        - {x: -18.5, y: 28.5}
+        - {x: -28.5, y: 16.5}
+        - {x: -28.5, y: -14.5}
+        - {x: -22.5, y: -28.5}
+        - {x: 20.5, y: -28.5}
+        - {x: 28.5, y: -20.5}
+        - {x: 28.5, y: 17.5}
+        - {x: 17.5, y: 26.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_CastleWall
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: -128, y: -128}
+      - - {x: -128, y: -128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape:      
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Moc1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 501
+        width: 176
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 0, z: 60, w: 0}
+      outline:
+      - - {x: -88, y: 24}
+        - {x: 88, y: 24}
+        - {x: -88, y: -24}
+      - - {x: -88, y: -24}
+        - {x: 88, y: 24}
+        - {x: 88, y: -24}
+      physicsShape:      
+      - - {x: -88, y: 24}
+        - {x: -88, y: -24}
+        - {x: 88, y: -24}
+        - {x: 88, y: 16}
+        - {x: 87, y: 24}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_current2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 637
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -32.5}
+        - {x: -32.5, y: 32.5}
+        - {x: 32.5, y: -32.5}
+      - - {x: 32.5, y: 32.5}
+        - {x: 32.5, y: -32.5}
+        - {x: -32.5, y: 32.5}
+      physicsShape:      
+      - - {x: -30.5, y: 32.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -32.5, y: -30.5}
+        - {x: -30.5, y: -32.5}
+        - {x: 30.5, y: -32.5}
+        - {x: 32.5, y: -30.5}
+        - {x: 32.5, y: 30.5}
+        - {x: 30.5, y: 32.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 245
+        width: 111
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 76.5}
+        - {x: 55.5, y: 76.5}
+        - {x: -55.5, y: -76.5}
+      - - {x: -55.5, y: -76.5}
+        - {x: 55.5, y: 76.5}
+        - {x: 55.5, y: -76.5}
+      physicsShape:      
+      - - {x: 55.5, y: -32.5}
+        - {x: 55.5, y: -14.5}
+        - {x: 16.5, y: 56.5}
+        - {x: 8.5, y: 75.5}
+        - {x: 5.5, y: 76.5}
+        - {x: -6.5, y: 76.5}
+        - {x: -27.5, y: 40.5}
+        - {x: -38.5, y: 17.5}
+        - {x: -55.5, y: -19.5}
+        - {x: -55.5, y: -30.5}
+        - {x: -53.5, y: -34.5}
+        - {x: -24.5, y: -29.5}
+        - {x: -21.5, y: -70.5}
+        - {x: -15.5, y: -76.5}
+        - {x: 12.5, y: -76.5}
+        - {x: 20.5, y: -74.5}
+        - {x: 21.5, y: -63.5}
+        - {x: 23.5, y: -27.5}
+        - {x: 53.5, y: -35.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_icon_check
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 430
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 10}
+        - {x: 12.5, y: 10}
+        - {x: -12.5, y: -10}
+      - - {x: -12.5, y: -10}
+        - {x: 12.5, y: 10}
+        - {x: 12.5, y: -10}
+      physicsShape:      
+      - - {x: 0.5, y: 9.999999}
+        - {x: -9.5, y: 7}
+        - {x: -12.5, y: 4}
+        - {x: -12.5, y: -2}
+        - {x: -5.5, y: -9.999999}
+        - {x: 3.5, y: -9.999999}
+        - {x: 12.5, y: -1}
+        - {x: 12.5, y: 9.999999}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dynamite
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 415
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -207.5, y: 157}
+        - {x: -207.5, y: 177}
+        - {x: -203.5, y: 151}
+      - - {x: -203.5, y: 182}
+        - {x: -203.5, y: 151}
+        - {x: -207.5, y: 177}
+      - - {x: -189.5, y: 138}
+        - {x: -203.5, y: 151}
+        - {x: -203.5, y: 182}
+      - - {x: -190.5, y: 188}
+        - {x: -189.5, y: 138}
+        - {x: -203.5, y: 182}
+      - - {x: -171.5, y: 200}
+        - {x: -189.5, y: 138}
+        - {x: -190.5, y: 188}
+      - - {x: -207.5, y: 35}
+        - {x: -206.5, y: 99}
+        - {x: -206.5, y: 32}
+      - - {x: -197.5, y: 26}
+        - {x: -206.5, y: 32}
+        - {x: -206.5, y: 99}
+      - - {x: -198.5, y: 105}
+        - {x: -197.5, y: 26}
+        - {x: -206.5, y: 99}
+      - - {x: -191.5, y: 105}
+        - {x: -197.5, y: 26}
+        - {x: -198.5, y: 105}
+      - - {x: -196.5, y: -127}
+        - {x: -197.5, y: 26}
+        - {x: -191.5, y: 105}
+      - - {x: -207.5, y: -135}
+        - {x: -201.5, y: -128}
+        - {x: -206.5, y: -196}
+      - - {x: -205.5, y: -199}
+        - {x: -206.5, y: -196}
+        - {x: -201.5, y: -128}
+      - - {x: -201.5, y: -202}
+        - {x: -205.5, y: -199}
+        - {x: -201.5, y: -128}
+      - - {x: 197.5, y: -202}
+        - {x: -201.5, y: -202}
+        - {x: -201.5, y: -128}
+      - - {x: -196.5, y: -127}
+        - {x: 197.5, y: -202}
+        - {x: -201.5, y: -128}
+      - - {x: -191.5, y: 105}
+        - {x: 197.5, y: -202}
+        - {x: -196.5, y: -127}
+      - - {x: -191.5, y: 126}
+        - {x: 197.5, y: -202}
+        - {x: -191.5, y: 105}
+      - - {x: -189.5, y: 138}
+        - {x: 197.5, y: -202}
+        - {x: -191.5, y: 126}
+      - - {x: -171.5, y: 200}
+        - {x: 197.5, y: -202}
+        - {x: -189.5, y: 138}
+      - - {x: -164.5, y: 202}
+        - {x: 197.5, y: -202}
+        - {x: -171.5, y: 200}
+      - - {x: -134.5, y: 202}
+        - {x: 197.5, y: -202}
+        - {x: -164.5, y: 202}
+      - - {x: -121.5, y: 197}
+        - {x: 197.5, y: -202}
+        - {x: -134.5, y: 202}
+      - - {x: -109.5, y: 202}
+        - {x: 197.5, y: -202}
+        - {x: -121.5, y: 197}
+      - - {x: -87.5, y: 202}
+        - {x: 197.5, y: -202}
+        - {x: -109.5, y: 202}
+      - - {x: -54.5, y: 177}
+        - {x: 197.5, y: -202}
+        - {x: -87.5, y: 202}
+      - - {x: -41.5, y: 179}
+        - {x: 197.5, y: -202}
+        - {x: -54.5, y: 177}
+      - - {x: -25.5, y: 189}
+        - {x: 197.5, y: -202}
+        - {x: -41.5, y: 179}
+      - - {x: -6.5, y: 191}
+        - {x: 197.5, y: -202}
+        - {x: -25.5, y: 189}
+      - - {x: 2.5, y: 189}
+        - {x: 197.5, y: -202}
+        - {x: -6.5, y: 191}
+      - - {x: 24.5, y: 182}
+        - {x: 197.5, y: -202}
+        - {x: 2.5, y: 189}
+      - - {x: 51.5, y: 187}
+        - {x: 197.5, y: -202}
+        - {x: 24.5, y: 182}
+      - - {x: 77.5, y: 184}
+        - {x: 197.5, y: -202}
+        - {x: 51.5, y: 187}
+      - - {x: 104.5, y: 200}
+        - {x: 197.5, y: -202}
+        - {x: 77.5, y: 184}
+      - - {x: 116.5, y: 201}
+        - {x: 197.5, y: -202}
+        - {x: 104.5, y: 200}
+      - - {x: 132.5, y: 191}
+        - {x: 197.5, y: -202}
+        - {x: 116.5, y: 201}
+      - - {x: 141.5, y: 182}
+        - {x: 197.5, y: -202}
+        - {x: 132.5, y: 191}
+      - - {x: 151.5, y: 187}
+        - {x: 197.5, y: -202}
+        - {x: 141.5, y: 182}
+      - - {x: 176.5, y: 190}
+        - {x: 197.5, y: -202}
+        - {x: 151.5, y: 187}
+      - - {x: 193.5, y: -126}
+        - {x: 197.5, y: -202}
+        - {x: 176.5, y: 190}
+      - - {x: 182.5, y: 187}
+        - {x: 193.5, y: -126}
+        - {x: 176.5, y: 190}
+      - - {x: 197.5, y: -128}
+        - {x: 197.5, y: -202}
+        - {x: 193.5, y: -126}
+      - - {x: 201.5, y: -199}
+        - {x: 197.5, y: -202}
+        - {x: 197.5, y: -128}
+      - - {x: 201.5, y: -132}
+        - {x: 201.5, y: -199}
+        - {x: 197.5, y: -128}
+      - - {x: 202.5, y: -196}
+        - {x: 201.5, y: -199}
+        - {x: 201.5, y: -132}
+      - - {x: 202.5, y: -135}
+        - {x: 202.5, y: -196}
+        - {x: 201.5, y: -132}
+      - - {x: 193.5, y: 27}
+        - {x: 194.5, y: 104}
+        - {x: 197.5, y: 28}
+      - - {x: 197.5, y: 103}
+        - {x: 197.5, y: 28}
+        - {x: 194.5, y: 104}
+      - - {x: 203.5, y: 35}
+        - {x: 197.5, y: 28}
+        - {x: 197.5, y: 103}
+      - - {x: 201.5, y: 99}
+        - {x: 203.5, y: 35}
+        - {x: 197.5, y: 103}
+      - - {x: 202.5, y: 96}
+        - {x: 203.5, y: 35}
+        - {x: 201.5, y: 99}
+      - - {x: 196.5, y: 104}
+        - {x: 199.5, y: 140}
+        - {x: 203.5, y: 107}
+      - - {x: 207.5, y: 132}
+        - {x: 203.5, y: 107}
+        - {x: 199.5, y: 140}
+      - - {x: 207.5, y: 110}
+        - {x: 203.5, y: 107}
+        - {x: 207.5, y: 132}
+      - - {x: 194.5, y: 176}
+        - {x: 193.5, y: 27}
+        - {x: 182.5, y: 187}
+      - - {x: 193.5, y: -126}
+        - {x: 182.5, y: 187}
+        - {x: 193.5, y: 27}
+      - - {x: 194.5, y: 104}
+        - {x: 193.5, y: 27}
+        - {x: 194.5, y: 176}
+      - - {x: 196.5, y: 104}
+        - {x: 194.5, y: 104}
+        - {x: 194.5, y: 176}
+      - - {x: 200.5, y: 159}
+        - {x: 196.5, y: 104}
+        - {x: 194.5, y: 176}
+      - - {x: 199.5, y: 140}
+        - {x: 196.5, y: 104}
+        - {x: 200.5, y: 159}
+      physicsShape:      
+      - - {x: 193.5, y: -127}
+        - {x: 193.5, y: 28}
+        - {x: 197.5, y: 29}
+        - {x: 203.5, y: 34}
+        - {x: 202.5, y: 97}
+        - {x: 197.5, y: 102}
+        - {x: 190.5, y: 104}
+        - {x: 192.5, y: 104}
+        - {x: 200.5, y: 105}
+        - {x: 207.5, y: 113}
+        - {x: 207.5, y: 130}
+        - {x: 196.5, y: 167}
+        - {x: 193.5, y: 176}
+        - {x: 178.5, y: 192}
+        - {x: 142.5, y: 185}
+        - {x: 116.5, y: 200}
+        - {x: 106.5, y: 200}
+        - {x: 79.49999, y: 184}
+        - {x: 58.5, y: 187}
+        - {x: 16.5, y: 181}
+        - {x: 6.5, y: 188}
+        - {x: -18.5, y: 191}
+        - {x: -55.5, y: 176}
+        - {x: -90.5, y: 202}
+        - {x: -169.5, y: 202}
+        - {x: -205.5, y: 184}
+        - {x: -207.5, y: 177}
+        - {x: -207.5, y: 154}
+        - {x: -198.5, y: 146}
+        - {x: -190.5, y: 131}
+        - {x: -192.5, y: 120}
+        - {x: -199.5, y: 104}
+        - {x: -207.5, y: 97.99999}
+        - {x: -207.5, y: 66}
+        - {x: -206.5, y: 34}
+        - {x: -201.5, y: 29}
+        - {x: -196.5, y: 28}
+        - {x: -198.5, y: -126}
+        - {x: -207.5, y: -133}
+        - {x: -207.5, y: -156}
+        - {x: -206.5, y: -197}
+        - {x: -201.5, y: -202}
+        - {x: 198.5, y: -202}
+        - {x: 205.5, y: -193}
+        - {x: 202.5, y: -134}
+        - {x: 197.5, y: -129}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

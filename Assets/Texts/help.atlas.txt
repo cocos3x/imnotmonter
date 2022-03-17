@@ -1,0 +1,41 @@
+
+help.png
+size: 148,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!
+  rotate: false
+  xy: 123, 4
+  size: 23, 44
+  orig: 25, 46
+  offset: 1, 1
+  index: -1
+E
+  rotate: false
+  xy: 67, 3
+  size: 28, 45
+  orig: 30, 47
+  offset: 1, 1
+  index: -1
+H
+  rotate: false
+  xy: 2, 2
+  size: 30, 46
+  orig: 32, 48
+  offset: 1, 1
+  index: -1
+L
+  rotate: false
+  xy: 97, 3
+  size: 24, 45
+  orig: 26, 47
+  offset: 1, 1
+  index: -1
+P
+  rotate: false
+  xy: 34, 3
+  size: 31, 45
+  orig: 33, 47
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,223 @@
+
+Enemy_spine.png
+size: 676,2264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2/L_hand
+  rotate: false
+  xy: 384, 121
+  size: 170, 76
+  orig: 170, 76
+  offset: 0, 0
+  index: -1
+2/L_hand2
+  rotate: false
+  xy: 157, 286
+  size: 103, 73
+  orig: 103, 73
+  offset: 0, 0
+  index: -1
+3/body
+  rotate: false
+  xy: 2, 39
+  size: 153, 326
+  orig: 153, 326
+  offset: 0, 0
+  index: -1
+L_arm1
+  rotate: false
+  xy: 626, 1308
+  size: 48, 124
+  orig: 48, 127
+  offset: 0, 2
+  index: -1
+L_arm2
+  rotate: false
+  xy: 319, 208
+  size: 60, 101
+  orig: 60, 101
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 263, 311
+  size: 134, 59
+  orig: 134, 60
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: false
+  xy: 199, 484
+  size: 70, 121
+  orig: 70, 121
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: false
+  xy: 211, 80
+  size: 58, 92
+  orig: 58, 92
+  offset: 0, 0
+  index: -1
+R_arm1
+  rotate: false
+  xy: 157, 166
+  size: 52, 118
+  orig: 54, 129
+  offset: 1, 2
+  index: -1
+R_arm2
+  rotate: false
+  xy: 262, 174
+  size: 55, 135
+  orig: 61, 136
+  offset: 5, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 556, 144
+  size: 55, 53
+  orig: 56, 55
+  offset: 0, 1
+  index: -1
+R_leg1
+  rotate: false
+  xy: 199, 361
+  size: 62, 121
+  orig: 69, 121
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 319, 114
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 271, 372
+  size: 153, 326
+  orig: 153, 326
+  offset: 0, 0
+  index: -1
+dead_0
+  rotate: false
+  xy: 2, 1824
+  size: 321, 438
+  orig: 329, 438
+  offset: 8, 0
+  index: -1
+dead_1
+  rotate: false
+  xy: 325, 1831
+  size: 315, 431
+  orig: 325, 438
+  offset: 4, 3
+  index: -1
+dead_2
+  rotate: false
+  xy: 325, 1434
+  size: 315, 395
+  orig: 325, 438
+  offset: 4, 39
+  index: -1
+dead_3
+  rotate: false
+  xy: 2, 1457
+  size: 315, 365
+  orig: 325, 438
+  offset: 4, 69
+  index: -1
+dead_4
+  rotate: false
+  xy: 2, 1090
+  size: 310, 365
+  orig: 325, 438
+  offset: 9, 69
+  index: -1
+dead_5
+  rotate: false
+  xy: 314, 1067
+  size: 310, 365
+  orig: 325, 438
+  offset: 9, 69
+  index: -1
+dead_6
+  rotate: false
+  xy: 273, 700
+  size: 199, 365
+  orig: 325, 438
+  offset: 9, 69
+  index: -1
+dead_7
+  rotate: false
+  xy: 2, 367
+  size: 195, 365
+  orig: 325, 438
+  offset: 9, 69
+  index: -1
+dead_8
+  rotate: false
+  xy: 474, 702
+  size: 188, 363
+  orig: 325, 438
+  offset: 9, 69
+  index: -1
+dead_a
+  rotate: false
+  xy: 271, 2
+  size: 365, 110
+  orig: 366, 110
+  offset: 0, 0
+  index: -1
+dead_b
+  rotate: false
+  xy: 642, 1998
+  size: 29, 264
+  orig: 29, 264
+  offset: 0, 0
+  index: -1
+dead_hand
+  rotate: false
+  xy: 199, 607
+  size: 70, 125
+  orig: 70, 125
+  offset: 0, 0
+  index: -1
+dead_head
+  rotate: false
+  xy: 426, 199
+  size: 209, 248
+  orig: 209, 248
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 734
+  size: 269, 354
+  orig: 272, 355
+  offset: 0, 1
+  index: -1
+head
+  rotate: false
+  xy: 474, 449
+  size: 200, 251
+  orig: 204, 252
+  offset: 3, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 157, 26
+  size: 75, 52
+  orig: 75, 53
+  offset: 0, 1
+  index: -1
+mouth2
+  rotate: false
+  xy: 2, 7
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1

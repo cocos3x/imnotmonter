@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/I'mNotAMonster/Scenes/SplashScene.unity
+    guid: 38464392ef1b8df48a0dd35461587700
+  - enabled: 1
+    path: Assets/I'mNotAMonster/Scenes/HomeScene.unity
+    guid: 9946b08e2e70f404c8dcb9cdc1189589
+  - enabled: 1
+    path: Assets/I'mNotAMonster/RopeRescue/Scenes/GameRopeRescue.unity
+    guid: ec7f39b8cb1444c448089ebe9c96ce1f
+  - enabled: 1
+    path: Assets/I'mNotAMonster/Scenes/PinPullMode.unity
+    guid: d257cf566842dcd4b80c69b59636dff9
+  - enabled: 1
+    path: Assets/I'mNotAMonster/CutTheRopeMode/Scene/GameCutRescue.unity
+    guid: 12c4647173def754da20dbe94261b30a

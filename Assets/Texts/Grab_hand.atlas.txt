@@ -1,0 +1,41 @@
+
+Grab_hand.png
+size: 220,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 184, 233
+  size: 28, 92
+  orig: 28, 92
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 2, 12
+  size: 107, 135
+  orig: 107, 135
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 184, 139
+  size: 28, 92
+  orig: 28, 92
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 111, 2
+  size: 107, 135
+  orig: 107, 135
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 149
+  size: 176, 180
+  orig: 176, 180
+  offset: 0, 0
+  index: -1

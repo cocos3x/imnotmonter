@@ -1,0 +1,181 @@
+
+boss1.png
+size: 288,1212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm1
+  rotate: false
+  xy: 124, 20
+  size: 118, 108
+  orig: 119, 108
+  offset: 1, 0
+  index: -1
+L_arm2
+  rotate: false
+  xy: 161, 432
+  size: 123, 144
+  orig: 124, 145
+  offset: 0, 1
+  index: -1
+L_hand
+  rotate: false
+  xy: 147, 327
+  size: 123, 103
+  orig: 123, 103
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: false
+  xy: 185, 778
+  size: 48, 143
+  orig: 48, 143
+  offset: 0, 0
+  index: -1
+R_leg1
+  rotate: false
+  xy: 185, 778
+  size: 48, 143
+  orig: 48, 143
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: false
+  xy: 147, 130
+  size: 120, 195
+  orig: 120, 195
+  offset: 0, 0
+  index: -1
+R_arm1
+  rotate: false
+  xy: 184, 651
+  size: 102, 125
+  orig: 103, 125
+  offset: 1, 0
+  index: -1
+R_arm2
+  rotate: false
+  xy: 2, 565
+  size: 157, 106
+  orig: 159, 106
+  offset: 1, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 2, 2
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 2, 96
+  size: 120, 195
+  orig: 120, 195
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 293
+  size: 143, 204
+  orig: 143, 204
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 185, 923
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+eye1_black
+  rotate: false
+  xy: 124, 264
+  size: 18, 27
+  orig: 20, 29
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 235, 853
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 235, 853
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+eye2_black
+  rotate: false
+  xy: 161, 653
+  size: 11, 18
+  orig: 13, 20
+  offset: 1, 1
+  index: -1
+eye3_black
+  rotate: false
+  xy: 235, 902
+  size: 11, 19
+  orig: 13, 21
+  offset: 1, 1
+  index: -1
+fang1
+  rotate: false
+  xy: 248, 908
+  size: 28, 76
+  orig: 30, 78
+  offset: 1, 1
+  index: -1
+fang2
+  rotate: false
+  xy: 235, 778
+  size: 39, 73
+  orig: 41, 75
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 986
+  size: 283, 221
+  orig: 283, 221
+  offset: 0, 0
+  index: -1
+mouth_back
+  rotate: false
+  xy: 2, 881
+  size: 181, 103
+  orig: 181, 103
+  offset: 0, 0
+  index: -1
+mouth_laugh
+  rotate: false
+  xy: 2, 776
+  size: 180, 103
+  orig: 180, 103
+  offset: 0, 0
+  index: -1
+mouth_top
+  rotate: false
+  xy: 2, 673
+  size: 179, 101
+  orig: 181, 103
+  offset: 1, 1
+  index: -1
+tooth1
+  rotate: false
+  xy: 161, 578
+  size: 125, 71
+  orig: 127, 73
+  offset: 1, 1
+  index: -1
+tooth2
+  rotate: false
+  xy: 2, 499
+  size: 155, 64
+  orig: 158, 66
+  offset: 1, 1
+  index: -1
